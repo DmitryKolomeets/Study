@@ -9,7 +9,7 @@ public class Sum {
         System.out.println("Введите второе число: ");
         int num2 = in.nextInt();
 
-        System.out.printf("Сумма двух чисел равна = %d \n", num1 + num2 );
+        System.out.printf("Сумма двух чисел равна = %d \n", (num1 + num2) );
         in.close();
 
     }

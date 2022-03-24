@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bank {
+public class Monobank {
 
 public static void main(String[] args) {
 
